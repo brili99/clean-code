@@ -2,7 +2,7 @@
   "name": "clean-code",
   "displayName": "Clean Code",
   "description": "To remove all comment in code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.103.0"
   },
