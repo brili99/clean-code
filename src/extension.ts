@@ -12,6 +12,7 @@ export function activate(context: vscode.ExtensionContext) {
         const languageId = document.languageId;
 
         // Regex for common comment styles
+        // test commit
         const singleLine = /\/\/.*$/gm;
         const hashLine = /#.*$/gm;
         const multiLine = /\/\*[\s\S]*?\*\//gm;
