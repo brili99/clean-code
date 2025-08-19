@@ -20,6 +20,10 @@
     ]
   },
   "publisher": "brili99",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brili99/clean-code"
+  },
   "scripts": {
     "vscode:prepublish": "npm run compile",
     "compile": "tsc -p ./",

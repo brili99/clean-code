@@ -31,7 +31,7 @@ Supports common programming languages like **JavaScript, TypeScript, C, C++, C#,
 Will be available soon on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/).
 
 ### Manual (VSIX)
-1. Download the `.vsix` file (see [Releases](./releases)).
+1. Download the `.vsix` file (see [Releases](https://github.com/brili99/clean-code/releases)).
 2. In VS Code, press **Ctrl+Shift+P** → select **Extensions: Install from VSIX…**.
 3. Pick the `.vsix` file to install.
 
